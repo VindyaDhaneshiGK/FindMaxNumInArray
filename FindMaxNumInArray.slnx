@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../FindMaxTest/FindMaxTest.csproj" />
   <Project Path="FindMaxNumInArray.csproj" />
 </Solution>
